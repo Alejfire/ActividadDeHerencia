@@ -1,0 +1,14 @@
+C:\Users\aleja\source\repos\Actividad de Herencia\Actividad de Herencia\obj\Debug\net8.0\Actividad de Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\source\repos\Actividad de Herencia\Actividad de Herencia\obj\Debug\net8.0\Actividad de Herencia.AssemblyInfoInputs.cache
+C:\Users\aleja\source\repos\Actividad de Herencia\Actividad de Herencia\obj\Debug\net8.0\Actividad de Herencia.AssemblyInfo.cs
+C:\Users\aleja\source\repos\Actividad de Herencia\Actividad de Herencia\obj\Debug\net8.0\Actividad de Herencia.csproj.CoreCompileInputs.cache
+C:\Users\aleja\source\repos\Actividad de Herencia\Actividad de Herencia\bin\Debug\net8.0\Actividad de Herencia.exe
+C:\Users\aleja\source\repos\Actividad de Herencia\Actividad de Herencia\bin\Debug\net8.0\Actividad de Herencia.deps.json
+C:\Users\aleja\source\repos\Actividad de Herencia\Actividad de Herencia\bin\Debug\net8.0\Actividad de Herencia.runtimeconfig.json
+C:\Users\aleja\source\repos\Actividad de Herencia\Actividad de Herencia\bin\Debug\net8.0\Actividad de Herencia.dll
+C:\Users\aleja\source\repos\Actividad de Herencia\Actividad de Herencia\bin\Debug\net8.0\Actividad de Herencia.pdb
+C:\Users\aleja\source\repos\Actividad de Herencia\Actividad de Herencia\obj\Debug\net8.0\Actividad de Herencia.dll
+C:\Users\aleja\source\repos\Actividad de Herencia\Actividad de Herencia\obj\Debug\net8.0\refint\Actividad de Herencia.dll
+C:\Users\aleja\source\repos\Actividad de Herencia\Actividad de Herencia\obj\Debug\net8.0\Actividad de Herencia.pdb
+C:\Users\aleja\source\repos\Actividad de Herencia\Actividad de Herencia\obj\Debug\net8.0\Actividad de Herencia.genruntimeconfig.cache
+C:\Users\aleja\source\repos\Actividad de Herencia\Actividad de Herencia\obj\Debug\net8.0\ref\Actividad de Herencia.dll
